@@ -127,8 +127,4 @@ pip install numpy matplotlib scipy POT pandas
 
 ---
 
-## Équipe
 
-Mahmoud Bajjou · Amin · Youssef · Yasser
-
-Projet encadré — ESILV / Polytech, février–juin 2026.
